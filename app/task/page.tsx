@@ -43,9 +43,9 @@ export default function taskpage() {
                     <div className="flex justify-between">
                         <p>In 7 days</p>
                         <div className="flex -space-x-3 items-center">
-                            <img src="/img1.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
-                            <img src="/img2.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
-                            <img src="/img3.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
+                            <img src="/img7.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
+                            <img src="/img8.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
+                            <img src="/img9git.jpg" className="w-7 h-7 rounded-full border-2 border-white"/>
                             <div className="flex items-center w-7 h-7 rounded-full bg-white p-1.5 text-xs">
                                 <p>+3</p>
                             </div>
